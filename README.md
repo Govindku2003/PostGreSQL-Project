@@ -16,7 +16,7 @@ A comprehensive database management project utilizing PostgreSQL to design, impl
 
 ### Prerequisites
 * PostgreSQL (v14 or higher recommended)
-* A terminal or a database GUI client (e.g., pgAdmin, DBeaver)
+* A terminal or a database GUI client (e.g., pgAdmin)
 
 ### Setup & Installation
 
